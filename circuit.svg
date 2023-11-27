@@ -1,0 +1,110 @@
+<svg width="763" height="449" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="TbesosMpPZlg" x2="32px" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#7f7f7f" offset="0"/>
+   <stop stop-color="#7f7f7f" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-159,-52)">
+  <g fill="none" stroke="#7f7f7f">
+   <g stroke-linecap="round" stroke-miterlimit="10" stroke-width="3">
+    <path d="m320 296h64v48h-64z" paint-order="fill stroke markers"/>
+    <path d="m304 304h32" paint-order="fill stroke markers"/>
+    <path d="m304 336h32" paint-order="fill stroke markers"/>
+    <path d="m400 304h-24" paint-order="fill stroke markers"/>
+    <path d="m400 336h-24" paint-order="fill stroke markers"/>
+    <path d="m336 304v8" paint-order="fill stroke markers"/>
+    <path d="m336 328v8" paint-order="fill stroke markers"/>
+   </g>
+   <path d="m344 312h-16l8 16z" stroke-width="2" paint-order="stroke fill markers"/>
+   <g stroke-linecap="round" stroke-miterlimit="10" stroke-width="3">
+    <path d="m344 328h-16" paint-order="fill stroke markers"/>
+    <path d="m376 304-13 10" paint-order="fill stroke markers"/>
+    <path d="m376 336-13-10" paint-order="fill stroke markers"/>
+   </g>
+  </g>
+  <path d="m376 336-4-8-5 6z" fill="#7f7f7f" stroke-width="2.5" paint-order="stroke fill markers"/>
+  <path d="m360 320v0" fill="none" stroke="#7f7f7f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" paint-order="fill stroke markers"/>
+  <path d="m360 304h3v32h-3z" fill="#7f7f7f" paint-order="stroke fill markers"/>
+  <path d="m358 315-5-2v4z" fill="#7f7f7f" paint-order="stroke fill markers"/>
+  <path d="m348 315h5" fill="none" stroke="#7f7f7f" stroke-linecap="round" stroke-miterlimit="10" paint-order="fill stroke markers"/>
+  <path d="m358 325-5-2v4z" fill="#7f7f7f" paint-order="stroke fill markers"/>
+  <g fill="none" stroke="#7f7f7f" stroke-linecap="round" stroke-miterlimit="10">
+   <path d="m348 325h5" paint-order="fill stroke markers"/>
+   <path d="m400 336h16" stroke-width="3" paint-order="fill stroke markers"/>
+   <path d="m448 336h16" stroke-width="3" paint-order="fill stroke markers"/>
+  </g>
+  <g transform="translate(416,336)">
+   <path d="m0 0 2 6 4-12 4 12 4-12 4 12 4-12 4 12 4-12 2 6" fill="none" stroke="url(#TbesosMpPZlg)" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" paint-order="fill stroke markers"/>
+  </g>
+  <text x="420.20984" y="323.61313" dominant-baseline="alphabetic" fill="#7f7f7f" font-family="sans-serif" font-size="12px" text-decoration="normal">100</text>
+  <g fill="none" stroke="#7f7f7f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3">
+   <path d="m304 224v-47" paint-order="fill stroke markers"/>
+   <path d="m320.66 160a16.66 16.66 0 1 1-1e-5 -0.0167" paint-order="fill stroke markers"/>
+   <path d="m296 152v8" paint-order="fill stroke markers"/>
+   <path d="m296 152h8" paint-order="fill stroke markers"/>
+   <path d="m304 152v16" paint-order="fill stroke markers"/>
+   <path d="m312 168h-8" paint-order="fill stroke markers"/>
+   <path d="m312 160v8" paint-order="fill stroke markers"/>
+  </g>
+  <text x="249.73997" y="163.82199" dominant-baseline="alphabetic" fill="#7f7f7f" font-family="sans-serif" font-size="12px" text-decoration="normal">33Hz</text>
+  <g fill="none" stroke="#7f7f7f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3">
+   <path d="m304 336v48" paint-order="fill stroke markers"/>
+   <path d="m314 384h-20" paint-order="fill stroke markers"/>
+   <path d="m310 389h-12" paint-order="fill stroke markers"/>
+   <path d="m306 394h-4" paint-order="fill stroke markers"/>
+   <path d="m560 416h80" paint-order="fill stroke markers"/>
+   <path d="m640 406v20" paint-order="fill stroke markers"/>
+   <path d="m645 410v12" paint-order="fill stroke markers"/>
+   <path d="m650 414v4" paint-order="fill stroke markers"/>
+   <path d="m400 304h160" paint-order="fill stroke markers"/>
+  </g>
+  <g fill="#7f7f7f">
+   <text x="480" y="298" dominant-baseline="alphabetic" font-family="sans-serif" font-size="12px" text-decoration="normal"/>
+   <path d="m592 176h47" fill-opacity=".86275" stroke="#7f7f7f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" paint-order="fill stroke markers"/>
+   <g>
+    <text x="643" y="176" dominant-baseline="central" fill="#7f7f7f" font-family="sans-serif" font-size="12px" text-decoration="normal">+5V</text>
+   </g>
+  </g>
+  <g fill="none" stroke="#7f7f7f">
+   <path d="m304 224v24" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" paint-order="fill stroke markers"/>
+   <path d="m304 280v24" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" paint-order="fill stroke markers"/>
+   <g transform="rotate(90,28,276)">
+    <path d="m0 0 2 6 4-12 4 12 4-12 4 12 4-12 4 12 4-12 2 6" fill="none" stroke="#7f7f7f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" paint-order="fill stroke markers"/>
+   </g>
+  </g>
+  <text x="314" y="270" dominant-baseline="alphabetic" fill="#7f7f7f" font-family="sans-serif" font-size="12px" text-decoration="normal">1k</text>
+  <path d="m464 336h48" fill="none" stroke="#7f7f7f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" paint-order="fill stroke markers"/>
+  <text x="488" y="330" dominant-baseline="alphabetic" fill="#7f7f7f" font-family="sans-serif" font-size="12px" text-decoration="normal"/>
+  <path d="m560 336v24" fill="none" stroke="#7f7f7f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" paint-order="fill stroke markers"/>
+  <path d="m560 392v24" fill="none" stroke="#7f7f7f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" paint-order="fill stroke markers"/>
+  <g transform="rotate(90,100,460)">
+   <path d="m0 0 2 6 4-12 4 12 4-12 4 12 4-12 4 12 4-12 2 6" fill="none" stroke="url(#TbesosMpPZlg)" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" paint-order="fill stroke markers"/>
+  </g>
+  <text x="570" y="382" dominant-baseline="alphabetic" fill="#7f7f7f" font-family="sans-serif" font-size="12px" text-decoration="normal">4.7k</text>
+  <path d="m512 336h48" fill="none" stroke="#7f7f7f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" paint-order="fill stroke markers"/>
+  <text x="536" y="330" dominant-baseline="alphabetic" fill="#7f7f7f" font-family="sans-serif" font-size="12px" text-decoration="normal"/>
+  <path d="m560 336h80" fill="none" stroke="#7f7f7f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" paint-order="fill stroke markers"/>
+  <text x="600" y="330" dominant-baseline="alphabetic" fill="#7f7f7f" font-family="sans-serif" font-size="12px" text-decoration="normal"/>
+  <rect x="229" y="102" width="259" height="308" fill="none" stroke="#7f7f7f" stroke-dasharray="16, 6" stroke-linecap="round" stroke-miterlimit="10"/>
+  <g transform="translate(-5.7166 -1.6333)">
+   <text x="378" y="133" dominant-baseline="alphabetic" fill="#7f7f7f" font-family="sans-serif" font-size="24px" text-decoration="normal">WSZ15D</text>
+  </g>
+  <text x="655" y="340" dominant-baseline="alphabetic" fill="#7f7f7f" font-family="sans-serif" font-size="12px" text-decoration="normal">interrupt pin (D8) for s0 pulse</text>
+  <path d="m560 176v128" fill="none" stroke="#7f7f7f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" paint-order="fill stroke markers"/>
+  <text x="566" y="246" dominant-baseline="alphabetic" fill="#7f7f7f" font-family="sans-serif" font-size="12px" text-decoration="normal"/>
+  <text x="666" y="419" dominant-baseline="alphabetic" fill="#7f7f7f" font-family="sans-serif" font-size="12px" text-decoration="normal">gnd</text>
+  <rect x="626" y="105" width="226" height="346" fill="none" stroke="#7f7f7f" stroke-dasharray="16, 6" stroke-linecap="round" stroke-miterlimit="10"/>
+  <path d="m560 176h32" fill="none" stroke="#7f7f7f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" paint-order="fill stroke markers"/>
+  <text x="576" y="170" dominant-baseline="alphabetic" fill="#7f7f7f" font-family="sans-serif" font-size="12px" text-decoration="normal"/>
+  <text x="772" y="138" dominant-baseline="alphabetic" fill="#7f7f7f" font-family="sans-serif" font-size="24px" text-decoration="normal">NANO</text>
+  <text x="641" y="127" dominant-baseline="alphabetic" fill="#7f7f7f" font-family="sans-serif" font-size="12px" text-decoration="normal">(Arduino dev board)</text>
+  <text x="238" y="119" dominant-baseline="alphabetic" fill="#7f7f7f" font-family="sans-serif" font-size="12px" text-decoration="normal">(Energy Meter)</text>
+  <g transform="translate(-5.3698)">
+   <text x="710" y="246" dominant-baseline="alphabetic" fill="#7f7f7f" font-family="sans-serif" font-size="12px" text-decoration="normal">ATmega328P</text>
+  </g>
+  <rect x="697" y="198" width="96" height="89" fill="none" stroke="#7f7f7f" stroke-dasharray="16, 6" stroke-linecap="round" stroke-miterlimit="10"/>
+  <path d="m563 336a3 3 0 1 1 0-2e-5z" fill="#7f7f7f" paint-order="stroke fill markers"/>
+  <path d="m643 336a3 3 0 1 1 0-2e-5z" fill="#7f7f7f" paint-order="stroke fill markers"/>
+ </g>
+</svg>
