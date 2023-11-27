@@ -6,11 +6,11 @@ S0-pulse counter code for Arduino dev boards with ATmega328P MCU
 >Pulse interface S0 according to DIN EN 62053-31, potential free by opto-coupler, max. 30 V DC/2O mA and min. 5 V DC.
 Impedance 100 ohms.
 
-The energy meter has an open collector interface that can be used to read pulses from it. Every pulse equals a constant amount of enegry e.g. 2000 Imp./kWh -> 1 pulse = 0.5 watt hours (1800 Joule). Every pulse has the same length e.g. 30ms .
-By counting the pulses the used energy over a period of time can be calculated.
+The energy meter has an open collector interface that can be used to read pulses from it. Every pulse equals a constant amount of energy e.g. 2000 Imp./kWh -> 1 pulse = 0.5 watt hours (1800 Joule). Every pulse has the same length e.g. 30ms .
+By counting the pulses, the used energy over a period of time can be calculated.
 
 The code below measures the time between the rising edge and falling edge in an interrupt service routine (ISR) by using the Timer1 ICR1 register to calculate the time difference.
-The ISR is kept as short as possible (but it takes time to execute). If the measured pulse length falls into a defined time window then the pulse is considered valid and added to an internal static pulse counter.
+The ISR is kept as short as possible (but it takes time to execute). If the measured pulse length falls into a defined time window, then the pulse is considered valid and added to an internal static pulse counter.
 Refer to the ATmega328P datasheet for more information. 
 
  ```C++
