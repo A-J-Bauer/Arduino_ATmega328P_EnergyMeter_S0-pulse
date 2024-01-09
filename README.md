@@ -90,7 +90,7 @@ void setup()
     TCCR1B &= ~(1 << CS11);
     TCCR1B |= (1 << CS10);
 
-    TCCR1B |= (1 << ICNC1); // set 4 cycle noice canceler bit
+    TCCR1B |= (1 << ICNC1); // set 4 cycle noise canceller bit
     TCCR1B |= (1 << ICES1); // set input capture edge select to rising edge
 
     // clear ICF1 before enabling input capture interrupts
